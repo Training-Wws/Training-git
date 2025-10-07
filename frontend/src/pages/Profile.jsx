@@ -65,7 +65,7 @@ export default function Profile() {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-purple-100 to-purple-300 p-4">
       <ToastContainer position="bottom-right" />
       <form onSubmit={handleSubmit} className="bg-white p-6 rounded-lg shadow-lg w-full max-w-md flex flex-col gap-4">
-        <h2 className="text-2xl font-bold text-center text-purple-700">Update Profile</h2>
+        <h2 className="text-2xl font-bold text-center text-purple-700">Update's Profile</h2>
 
         {/* Name */}
         <input
